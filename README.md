@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unstoppable2023
 - 👀 I’m interested in ...Html, CSS, JavaScript and C++
-- 🌱 I’m currently learning ... Html
+- 🌱 I’m currently learning ... Python and JavaScript
 - 💞️ I’m looking to collaborate on ... Working with many to produce my project
 - 📫 How to reach me ... +2348133139186
 
